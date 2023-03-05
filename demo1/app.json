@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/singer/singer",
+    "pages/geren/geren"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#C20C0C",
+    "navigationBarTitleText": "网易云",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+      "pagePath": "pages/index/index",
+      "text": "首页"
+      },
+      {
+      "pagePath": "pages/singer/singer",
+      "text": "音乐"
+      },
+      {
+      "pagePath": "pages/geren/geren",
+      "text": "个人中心"
+     }
+   ]
+  }
+}

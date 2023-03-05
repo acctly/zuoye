@@ -1,0 +1,14 @@
+/* pages/index/index.wxss */
+.bb{
+  width: 100%;
+  height:100%;
+  }
+  .aa{
+  width: 100%;
+  height: 360rpx;
+  }
+  .aa image{
+  width: 100%;
+  height: 100%;
+  }
+  

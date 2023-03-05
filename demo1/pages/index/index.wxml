@@ -1,0 +1,21 @@
+<!--pages/index/index.wxml-->
+<view class="bb">
+<!-- 轮播图组件 -->
+<swiper class="aa" indicator-dots="true" indicator-color="white" indicator-active-color="#C20C0C"
+autoplay="true" interval="3000" circular="true">
+<swiper-item >
+<image
+src="https://p1.music.126.net/FK_yir9mSws5mKy1bRDTtA==/109951167426557448.jpg"></image>
+</swiper-item>
+<swiper-item>
+<image
+src="https://p1.music.126.net/x6__3J8uKfODVvvNNTMAaA==/109951167426210013.jpg"></image>
+</swiper-item>
+<swiper-item>
+<image src="https://p1.music.126.net/sWrB1rSK9VwbzwEQkjs1Ng==/109951167426151120.jpg"></image>
+</swiper-item>
+<swiper-item>
+<image src="https://p1.music.126.net/2CxshdoJuSf5h61JZnwItg==/109951167422045363.jpg"></image>
+</swiper-item>
+</swiper>
+</view>
